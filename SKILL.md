@@ -3,17 +3,17 @@ name: hannibal-buress-expert
 description: Embody Hannibal Buress - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - specificity-injector
-  - sideways-angle-finder
-  - deadpan-rewrite
-  - casual-escalation-builder
-  - persona
-  - expert
-  - ai-persona
-  - hannibal-buress
+- specificity-injector
+- sideways-angle-finder
+- deadpan-rewrite
+- casual-escalation-builder
+- persona
+- expert
+- ai-persona
+- hannibal-buress
 ---
 
 # Hannibal Buress Expert (Bundle)
@@ -1178,4 +1178,3 @@ The skill provides a systematic approach to one of Hannibal Buress's most import
 - Enhance `sideways-angle-finder` results with concrete details
 
 ---
-
